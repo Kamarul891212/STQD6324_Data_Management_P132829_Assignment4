@@ -328,3 +328,4 @@ if __name__ == "__main__":
 ### Question 5: Users with occupation "scientist" and age between 30 and 40 years old
 
 ![Alt text](https://github.com/Kamarul891212/STQD6324_Data_Management_P132829_Assignment4/blob/master/images/image05.jpg)
+
